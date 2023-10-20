@@ -1,0 +1,12 @@
+﻿  UTS Grafkom.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+A:\Grafkom\UTS Grafkom final\GLFW\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(27,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(28,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(29,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(93,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(94,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(95,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(416,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+A:\Grafkom\UTS Grafkom final\UTS Grafkom.cpp(390,12): warning C4101: 'infoLog': unreferenced local variable
+  UTS Grafkom.vcxproj -> A:\Grafkom\UTS Grafkom final\x64\Debug\UTS Grafkom.exe

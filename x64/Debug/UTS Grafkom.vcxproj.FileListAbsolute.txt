@@ -1,0 +1,3 @@
+A:\Grafkom\UTS Grafkom\x64\Debug\UTS Grafkom.exe
+C:\Users\Lenovo\source\repos\UTS Grafkom\x64\Debug\UTS Grafkom.exe
+A:\Grafkom\UTS Grafkom final\x64\Debug\UTS Grafkom.exe
